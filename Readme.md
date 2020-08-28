@@ -11,3 +11,5 @@ Se agregaron tres archivos diferentes:
 El reporte se puede ver en el siguente link.
 
 > `https://nbviewer.jupyter.org/github/DataFeast71/COVID19_MEX_Exp/blob/master/MEX_COVID19_new.html`
+
+![](../Figuras/CovidNewCasesMexicoPer100K.png)
